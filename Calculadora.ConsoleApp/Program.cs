@@ -59,7 +59,7 @@ namespace Calculadora.ConsoleApp
                 }
                 do
                 {
-                    Console.Write("Você deseja fazer mais uma operação digite on, caso contrário off: ");
+                    Console.Write("Deseja fazer mais uma operação digite on, caso contrário off: ");
                     teste = Console.ReadLine();
                 } while (teste != "on" && teste != "off");
             } while (teste == "on");
