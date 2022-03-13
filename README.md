@@ -25,3 +25,9 @@ Nossa calculadora deve realizar as operações com "0"
 
 ## BUG 02
 Nossa calculadora deve realizar as operações com números com duas casas decimais
+
+# Extras:
+
+## A calculadora foi refatorada para POO.
+
+## A função de histórico foi implementada.
